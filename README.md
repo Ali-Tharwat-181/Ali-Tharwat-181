@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to <em>Ali Tharwat </em>'s GitHub!
-  <img src="https://komarev.com/ghpvc/?username=abdallaskar&style=flat-square&label=VIEWS">
+  <img src="https://komarev.com/ghpvc/?username=Ali-Tharwat-181&style=flat-square&label=VIEWS">
 </h1>
 
 <p align="center">
